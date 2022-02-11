@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Welcome!
+=======
+# React-6week
+>>>>>>> 79c21dd06269c8640e85c7e58a36a44e58df9d20
 
 React öğrenme sürecimde yaptığım ödevleri bu repository altinda birlestirdim.
 
@@ -24,4 +28,8 @@ $ yarn install
 $ yarn start
 ```
 
+<<<<<<< HEAD
 Son olarak projeyi gormek icin tarayicinizin adres cubuguna [localhost:3000](http://localhost:3000) yazin.
+=======
+Son olarak projeyi gormek icin tarayicinizin adres cubuguna [localhost:3000](http://localhost:3000) yazin.
+>>>>>>> 79c21dd06269c8640e85c7e58a36a44e58df9d20
