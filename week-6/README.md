@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/45832621/102695822-d4c2ba80-423a-11eb-8ad9-4d575224c957.png">
 </p>
 
-#### Merhaba, _66. Istanbul React Bootcamp_ için bitirme projesi olan "FINDLICIOUS" isimli yemek tarifleri projem ile karşınızdayım.
+#### Merhaba, React eğitimi için bitirme projesi olan "FINDLICIOUS" isimli yemek tarifleri projem ile karşınızdayım.
 
 Bu proje sayesinde aradığınız Türk yemeklerinin tariflerini bulabilir, en detaylı şekilde yeni tarifler ekleyebilirsiniz. Bu projede servis olarak **MockAPI** kullanılmıştır ve bu servis üzerinden fake database oluşturulmuştur.
 
