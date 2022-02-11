@@ -1,4 +1,5 @@
-# Bitirme Ödevi
+# graduation project
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45832621/102695822-d4c2ba80-423a-11eb-8ad9-4d575224c957.png">
@@ -56,6 +57,3 @@ Bu proje sayesinde aradığınız Türk yemeklerinin tariflerini bulabilir, en d
 - [ **X** ] [React testing library](https://www.npmjs.com/package/@testing-library/react)
 - [ **X** ] [@testing-library/user-event](https://www.npmjs.com/package/@testing-library/user-event)
 
-### Not:
-
-- Test ve deployment konusu şu an için bekleyebilir. Önümüzdeki iki hafta deployment ve test konusunu işledikten sonra projenize bunları dahil edebilirsiniz.
