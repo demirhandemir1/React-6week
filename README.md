@@ -22,8 +22,8 @@ $ yarn install
 ```bash
 $ yarn start
 ```
-
+*****
 Son olarak projeyi gormek icin tarayicinizin adres cubuguna [localhost:3000](http://localhost:3000) yazin.
-=======
+==========
 Son olarak projeyi gormek icin tarayicinizin adres cubuguna [localhost:3000](http://localhost:3000) yazin.
 
